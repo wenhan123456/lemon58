@@ -1,6 +1,0 @@
-phone,pwd,regname
-13112341255,abc123,lemon
-13112341257,abc123,lemon
-13112341255,abc123,lemon
-13112341255,abc123,lemon
-13112341255,abc123,lemon
